@@ -14,8 +14,7 @@
 
     $SelisihUmur = $UmurKakak - $umur;
 
-    echo "Selisih umur kami adalah $SelisihUmur tahun.";
-
+    echo "Selisih umur kami adalah $SelisihUmur tahun.";    
 ?>
 
 
